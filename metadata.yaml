@@ -1,5 +1,8 @@
 _repo: Under-The-Tiger-s-Claws-A-Struggle-for-the-Right_65790
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65790-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Nicholas (House name)
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/43953
     - http://www.gutenberg.org/ebooks/author/1599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65790#Under-The-Tiger-s-Claws-A-Struggle-for-the-Right
 gutenberg_issued: '2021-07-07'
 gutenberg_type: Text
 identifiers:
